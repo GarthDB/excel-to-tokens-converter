@@ -1,0 +1,46 @@
+{
+  "field-label-top-to-asterisk-small": {
+    "component": "field-label",
+    "sets": {
+      "desktop": {
+        "value": "8px"
+      },
+      "mobile": {
+        "value": "11px"
+      }
+    }
+  },
+  "field-label-top-to-asterisk-medium": {
+    "component": "field-label",
+    "sets": {
+      "desktop": {
+        "value": "8px"
+      },
+      "mobile": {
+        "value": "11px"
+      }
+    }
+  },
+  "field-label-top-to-asterisk-large": {
+    "component": "field-label",
+    "sets": {
+      "desktop": {
+        "value": "11px"
+      },
+      "mobile": {
+        "value": "14px"
+      }
+    }
+  },
+  "field-label-top-to-asterisk-extra-large": {
+    "component": "field-label",
+    "sets": {
+      "desktop": {
+        "value": "15px"
+      },
+      "mobile": {
+        "value": "18px"
+      }
+    }
+  }
+}
