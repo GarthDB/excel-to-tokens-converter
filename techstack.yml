@@ -1,0 +1,3575 @@
+repo_name: GarthDB/excel-to-tokens-converter
+report_id: cbe4cfc5fb4a86f01f0db99d850a030d
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-11T00:14:48+00:00'
+requested_by: GarthDB
+provider: github
+branch: main
+detected_tools_count: 274
+tools:
+- name: Bel
+  description: A new dialect of Lisp, by Paul Graham
+  website_url: http://paulgraham.com/bel.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/11408/no-img-open-source.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: D
+  description: Modern convenience. Modeling power. Native efficiency.
+  website_url: http://dlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ES6
+  description: The next version of JavaScript
+  website_url: http://www.ecma-international.org/ecma-262/6.0/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/typical@2.6.1/node_modules/typical/package.json
+  detection_source: node_modules/.pnpm/typical@2.6.1/node_modules/typical/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Eta
+  description: A powerful language for building scalable systems on the JVM
+  website_url: http://eta-lang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6490/2OjlqE5m.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Eve
+  description: Programming designed for humans
+  website_url: http://programming.witheve.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/5985/qbJoNuap.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: JSON
+  description: A lightweight data-interchange format
+  website_url: http://www.json.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: JSX
+  description: A statically-typed, object-oriented programming language
+  website_url: https://jsx.github.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/5578/no-img-open-source.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/wordwrapjs@3.0.0/node_modules/wordwrapjs/package.json
+  detection_source: node_modules/.pnpm/wordwrapjs@3.0.0/node_modules/wordwrapjs/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter
+  detection_source: Repo Metadata
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  detection_source: node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/package.json
+  detection_source: node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Swift
+  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/p-locate@2.0.0/node_modules/p-locate/package.json
+  detection_source: node_modules/.pnpm/p-locate@2.0.0/node_modules/p-locate/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 2.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/for-each-property-deep@0.0.3/node_modules/for-each-property-deep/package.json
+  detection_source: node_modules/.pnpm/for-each-property-deep@0.0.3/node_modules/for-each-property-deep/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: C3.js
+  description: A D3-based reusable chart library
+  website_url: http://c3js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/crc-32@1.2.2/node_modules/crc-32/package.json
+  detection_source: node_modules/.pnpm/crc-32@1.2.2/node_modules/crc-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Echo
+  description: High performance, extensible, minimalist Go web framework
+  website_url: https://echo.labstack.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/4996/9P0MlumU_400x400.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Expo
+  description: Build one project that runs natively on all your users' devices
+  website_url: https://expo.dev/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/lodash.padend@4.6.1/node_modules/lodash.padend/package.json
+  detection_source: node_modules/.pnpm/lodash.padend@4.6.1/node_modules/lodash.padend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  detection_source: node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Lit
+  description: "441 byte responsive \U0001F525 CSS framework"
+  website_url: https://ajusa.github.io/lit/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/for-each-property-deep@0.0.3/node_modules/for-each-property-deep/package.json
+  detection_source: node_modules/.pnpm/for-each-property-deep@0.0.3/node_modules/for-each-property-deep/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  detection_source: node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Omi
+  description: Next generation web framework in 4KB JavaScript (Web Components + JSX
+    + Proxy + Path Updating)
+  website_url: https://github.com/Tencent/omi
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/9702/omi-logo.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Prototype
+  description: Prototype JavaScript framework
+  website_url: http://prototypejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/3597/o_bigger_400x400.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/for-each-property-deep@0.0.3/node_modules/for-each-property-deep/package.json
+  detection_source: node_modules/.pnpm/for-each-property-deep@0.0.3/node_modules/for-each-property-deep/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: REST
+  description: A software architectural style
+  website_url: https://en.wikipedia.org/wiki/Representational_state_transfer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Remote Procedure Call (RPC)
+  image_url: https://img.stackshare.io/service/2969/0Zflj6Y__400x400.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/object-to-arguments@0.0.8/node_modules/object-to-arguments/package.json
+  detection_source: node_modules/.pnpm/object-to-arguments@0.0.8/node_modules/object-to-arguments/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Xtend
+  description: Flexible and expressive dialect of Java
+  website_url: http://www.eclipse.org/xtend/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Language Extensions
+  image_url: https://img.stackshare.io/service/4709/Xpand_Marke_32x32_400x400.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/convert-excel-to-json@1.7.0/node_modules/convert-excel-to-json/package.json
+  detection_source: node_modules/.pnpm/convert-excel-to-json@1.7.0/node_modules/convert-excel-to-json/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/node.extend@2.0.2/node_modules/node.extend/package.json
+  detection_source: node_modules/.pnpm/node.extend@2.0.2/node_modules/node.extend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: DB
+  description: 'Version control for databases: save, restore, and archive snapshots
+    of your database from the command line'
+  website_url: https://github.com/infostreams/db
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: dat
+  description: Real-time replication and versioning for data sets
+  website_url: http://dat-data.com/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/2504/1ca014a423414068bf3462747c3ef894.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/codepage@1.13.1/node_modules/codepage/package.json
+  detection_source: node_modules/.pnpm/codepage@1.13.1/node_modules/codepage/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ent
+  description: An entity framework for Go
+  website_url: https://entgo.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  detection_source: node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  detection_source: node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Ace
+  description: Embeddable code editor written in JavaScript
+  website_url: https://ace.c9.io
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Collaborative Text Editor
+  image_url: https://img.stackshare.io/service/5372/ACE-Cloud9-EDITOR-Social-Media-icon.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  detection_source: node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Brackets
+  description: A modern, open source text editor that understands web design
+  website_url: http://brackets.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/2226/brackets_512_400x400.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/unpack-string@0.0.2/node_modules/unpack-string/package.json
+  detection_source: node_modules/.pnpm/unpack-string@0.0.2/node_modules/unpack-string/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/convert-excel-to-json@1.7.0/node_modules/convert-excel-to-json/package.json
+  detection_source: node_modules/.pnpm/convert-excel-to-json@1.7.0/node_modules/convert-excel-to-json/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/array-back@2.0.0/node_modules/array-back/package.json
+  detection_source: node_modules/.pnpm/array-back@2.0.0/node_modules/array-back/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  detection_source: node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter
+  detection_source: Repo Metadata
+- name: GitHub
+  description: Powerful collaboration, review, and code management for open source
+    and private development projects
+  website_url: https://github.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Collaboration & Version Control
+  image_url: https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/bower.json
+  detection_source: node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/bower.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/package.json
+  detection_source: node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Istanbul
+  description: A JS code coverage tool written in JS
+  website_url: http://gotwarlost.github.io/istanbul/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  detection_source: node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 2.3.2
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/get-prototype-chain@1.0.1/node_modules/get-prototype-chain/package.json
+  detection_source: node_modules/.pnpm/get-prototype-chain@1.0.1/node_modules/get-prototype-chain/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Just
+  description: A library that organizes build tasks for your JS projects
+  website_url: https://microsoft.github.io/just/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://ucarecdn.com/43e17bda-3a34-4045-b3b2-f8555ee99396/
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ssf@0.10.3/node_modules/ssf/package.json
+  detection_source: node_modules/.pnpm/ssf@0.10.3/node_modules/ssf/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 2.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/for-each-property-deep@0.0.3/node_modules/for-each-property-deep/package.json
+  detection_source: node_modules/.pnpm/for-each-property-deep@0.0.3/node_modules/for-each-property-deep/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/locate-path@2.0.0/node_modules/locate-path/package.json
+  detection_source: node_modules/.pnpm/locate-path@2.0.0/node_modules/locate-path/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Rome
+  description: A linter, compiler, bundler, and more for JavaScript, TypeScript, JSON,
+    HTML, Markdown, and CSS
+  website_url: https://rome.tools/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/25589/default_4a6d6ac5f685e81da1aeeb4f9dfe938685fdf940.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  detection_source: node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/package.json
+  detection_source: node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Seq
+  description: Log search, analysis, and alerting server built for modern structured
+    log data
+  website_url: https://datalust.co/seq
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/4284/seq-nuget.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Ship
+  description: A macOS Native Interface to GitHub Issues
+  website_url: https://www.realartists.com/index.html
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for GitHub
+  image_url: https://img.stackshare.io/service/6424/apple-touch-icon.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/for-each-property-deep@0.0.3/node_modules/for-each-property-deep/package.json
+  detection_source: node_modules/.pnpm/for-each-property-deep@0.0.3/node_modules/for-each-property-deep/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 2.4.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/commander@2.14.1/node_modules/commander/package.json
+  detection_source: node_modules/.pnpm/commander@2.14.1/node_modules/commander/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Split
+  description: 'Split provides a unified solution for feature flags and experimentation '
+  website_url: http://www.split.io
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Feature Flags Management
+  image_url: https://img.stackshare.io/service/6588/default_2be28faff45ce2d9a308cf9c36820697303a7c11.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/inspect-function@0.2.2/node_modules/inspect-function/package.json
+  detection_source: node_modules/.pnpm/inspect-function@0.2.2/node_modules/inspect-function/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Testling
+  description: Automatic browser tests on every push
+  website_url: https://ci.testling.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/851/testling.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  detection_source: node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/.travis.yml
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/.travis.yml
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/array-back@2.0.0/node_modules/array-back/yarn.lock
+  detection_source: node_modules/.pnpm/array-back@2.0.0/node_modules/array-back/yarn.lock
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: hub
+  description: Wraps Git with extra features that make working with GitHub easier
+    (by GitHub)
+  website_url: http://hub.github.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/package.json
+  detection_source: node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/array-back@3.1.0/node_modules/array-back/package.json
+  detection_source: node_modules/.pnpm/array-back@3.1.0/node_modules/array-back/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: pip
+  description: A package installer for Python
+  website_url: https://pypi.org/project/pip/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  detection_source: node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Parse
+  description: The complete mobile app platform
+  website_url: https://parse.com
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Mobile Backend
+  image_url: https://img.stackshare.io/service/86/68wTsXcT.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  detection_source: node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Buffer
+  description: The easiest way to schedule tweets, Facebook posts and more
+  website_url: https://bufferapp.com/
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: Social Media Tools
+  image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/codepage@1.13.1/node_modules/codepage/package.json
+  detection_source: node_modules/.pnpm/codepage@1.13.1/node_modules/codepage/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Chartio
+  description: A powerful Business Intelligence tool anyone can use
+  website_url: https://chartio.com
+  open_source: false
+  hosted_saas: true
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/has@1.0.3/node_modules/has/package.json
+  detection_source: node_modules/.pnpm/has@1.0.3/node_modules/has/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Descript
+  description: A collaborative audio/video editor that works like a doc
+  website_url: https://www.descript.com/
+  open_source: false
+  hosted_saas: true
+  category: Analytics
+  sub_category: Video Marketing and Analytics
+  image_url: https://img.stackshare.io/service/21344/default_6f7cae8b4ddb7a7b52b07db55f14a397f7953656.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/bower.json
+  detection_source: node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/bower.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Flow
+  description: Simple project and task management for busy teams
+  website_url: http://www.getflow.com
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Project Management
+  image_url: https://img.stackshare.io/service/185/no-img-open-source.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  detection_source: node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Gmail
+  description: A free web-based e-mail service
+  website_url: https://mail.google.com
+  open_source: false
+  hosted_saas: true
+  category: Back Office
+  sub_category: Email Services
+  image_url: https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Omise
+  description: An online payment gateway offering a wide range of processing solutions
+    for any business need
+  website_url: https://www.omise.co/
+  open_source: false
+  hosted_saas: true
+  category: Payments
+  sub_category: Payment Services
+  image_url: https://img.stackshare.io/service/8491/jYzpfxho_400x400.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Ora
+  description: Agile task management and visual team collaboration, Ora is your team’s
+    command center with kanban, chat and timers!
+  website_url: https://ora.pm/
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Project Management
+  image_url: https://img.stackshare.io/service/6925/preview.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Sage
+  description: Manage accounting, people, operations, payments and banking
+  website_url: https://www.sage.com/en-sg/
+  open_source: false
+  hosted_saas: true
+  category: Back Office
+  sub_category: CRM
+  image_url: https://img.stackshare.io/service/12070/sZWCgbdp_400x400.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Simple
+  description: Track Time with One Click
+  website_url: https://simple-tracker.com
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Time Tracking
+  image_url: https://img.stackshare.io/service/11894/default_5bb2c0012a8c2666af5081e803e15952f675da0c.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Stream
+  description: Build scalable feeds, activity streams &amp; chat in a few hours instead
+    of months.
+  website_url: https://getstream.io/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Activity Feeds as a Service
+  image_url: https://img.stackshare.io/service/2213/mBSAJI_h_400x400.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/get-stdin@5.0.1/node_modules/get-stdin/package.json
+  detection_source: node_modules/.pnpm/get-stdin@5.0.1/node_modules/get-stdin/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Tables
+  description: Tables helps teams easily track &amp; automate tasks (by Google)
+  website_url: https://tables.area120.google.com/u/0/about#/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Spreadsheets as a Backend
+  image_url: https://img.stackshare.io/service/21095/default_9df0f488585ed467c4fe9832718484926bf5dcd7.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/table-layout@0.4.5/node_modules/table-layout/package.json
+  detection_source: node_modules/.pnpm/table-layout@0.4.5/node_modules/table-layout/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Typ
+  description: Turn Markdown into formatted PDFs
+  website_url: https://www.typ-set.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: File Conversion
+  image_url: https://img.stackshare.io/service/11914/typ.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Alt
+  description: A library for managing data within JavaScript applications
+  website_url: https://alt.js.org/
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/lodash.padend@4.6.1/node_modules/lodash.padend/package.json
+  detection_source: node_modules/.pnpm/lodash.padend@4.6.1/node_modules/lodash.padend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Blitz
+  description: Load testing for websites, web apps, and REST APIs
+  website_url: https://www.blitz.io/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Load and Performance Testing
+  image_url: https://img.stackshare.io/service/208/7Q-l-Hu-.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/lodash.padend@4.6.1/node_modules/lodash.padend/package.json
+  detection_source: node_modules/.pnpm/lodash.padend@4.6.1/node_modules/lodash.padend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Bluebird
+  description: A full featured promise library with unmatched performance
+  website_url: https://github.com/petkaantonov/bluebird/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/11991/bb.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/p-limit@1.3.0/node_modules/p-limit/package.json
+  detection_source: node_modules/.pnpm/p-limit@1.3.0/node_modules/p-limit/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: CAS
+  description: How people build software
+  website_url: http://jasig.github.io/cas/4.2.x/index.html
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4987/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  detection_source: node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/p-locate@2.0.0/node_modules/p-locate/package.json
+  detection_source: node_modules/.pnpm/p-locate@2.0.0/node_modules/p-locate/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: CommonJS
+  website_url: http://www.commonjs.org
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2931/no-img-open-source.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  detection_source: node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Copy
+  description: Accessible Cloud Storage from @Barracuda — Save your work. Save your
+    life.
+  website_url: http://copy.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2492/Ie9kefsM_normal.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  detection_source: node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: EC
+  website_url: BUG
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4455/no-img-open-source.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ECT
+  website_url: http://ectjs.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2391/no-img-open-source.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Enso
+  description: Visual programming and workflow automation tool
+  website_url: https://enso.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/30751/default_2aa4a61c7dace7562797284dd53e3340fd2ec652.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: FIX
+  description: We build tools to help make trading connections faster and easier.
+    Hosted and enterprise. Multi-asset class and multi-protocol.
+  website_url: https://fixspec.com/FIX/4.2
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6473/331jv9hea1czuo3qghna_normal.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  detection_source: node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Fetch
+  description: Fetch provides delivery for any product that is available locally in
+    under one hour
+  website_url: http://www.wefetch.it/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/1546/7iT3i191.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Firefox
+  description: Mozilla's Web Browser
+  website_url: https://www.mozilla.org/en-US/firefox/
+  open_source: false
+  hosted_saas: false
+  category: Back Office
+  sub_category: Web Browser
+  image_url: https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  detection_source: node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: JSCS
+  website_url: https://github.com/jscs-dev/node-jscs
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2198/8018201.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  detection_source: node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Lob
+  description: Print and Mail for Developers
+  website_url: https://lob.com/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Printing API
+  image_url: https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/lodash.padend@4.6.1/node_modules/lodash.padend/package.json
+  detection_source: node_modules/.pnpm/lodash.padend@4.6.1/node_modules/lodash.padend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Make
+  description: The GNU Compiler Collection and GNU Toolchain (Binutils, GDB, GLIBC)
+  website_url: https://www.gnu.org/software/make/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Code Automation Tools
+  image_url: https://img.stackshare.io/service/3582/heckert_gnu.small.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: OpenLayers
+  description: A high-performance, feature-packed library for all your mapping needs
+  website_url: http://openlayers.org/
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Per
+  description: Offer usage-based billing to your customers without the work.
+  website_url: https://www.useper.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10232/logo-500x300.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/array-back@3.1.0/node_modules/array-back/package.json
+  detection_source: node_modules/.pnpm/array-back@3.1.0/node_modules/array-back/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Q
+  description: A promise library for JavaScript
+  website_url: https://github.com/kriskowal/q
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: React Navigation
+  description: Flexible navigation library for React Native and web. Learn once, navigate
+    anywhere.
+  website_url: https://reactnavigation.org/
+  open_source: false
+  hosted_saas: false
+  category: Mobile
+  sub_category: Cross-Platform Mobile Tools
+  image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  detection_source: node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: SVG
+  description: 'Official Twitter account for the sum of all knowledge, Wikipedia.
+    More on our social media: https://t.co/Uju7VyOsTe'
+  website_url: https://en.wikipedia.org/wiki/Scalable_Vector_Graphics
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/11077/0Zflj6Y__normal.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/lodash.padend@4.6.1/node_modules/lodash.padend/package.json
+  detection_source: node_modules/.pnpm/lodash.padend@4.6.1/node_modules/lodash.padend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Tape
+  description: 'i''m the package manager for javascript. problems? try @npm_support
+    and #npm on freenode.'
+  website_url: https://www.npmjs.com/package/tape
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3722/lejvzrnlpb308aftn31u_normal.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  detection_source: node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Terminal
+  description: Virtual computers that start, resize, and scale in seconds
+  website_url: http://www.terminal.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/1246/q6gO7SqU.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Try
+  description: Run a command and inspect its effects before changing your live system
+  website_url: https://github.com/binpash/try
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Shell Utilities
+  image_url: https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/p-limit@1.3.0/node_modules/p-limit/package.json
+  detection_source: node_modules/.pnpm/p-limit@1.3.0/node_modules/p-limit/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Twitter API
+  description: Build bots that communicate smartly.
+  website_url: https://twitter.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2466/twitterdev_gear.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/node.extend@2.0.2/node_modules/node.extend/package.json
+  detection_source: node_modules/.pnpm/node.extend@2.0.2/node_modules/node.extend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: UglifyJS
+  description: A JavaScript parser, minifier, compressor and beautifier toolkit.
+  website_url: http://lisperator.net/uglifyjs/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2203/default_9058af6f02375a99f634f537d727e32df92ac262.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  detection_source: node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Underscore
+  description: JavaScript's utility _ belt
+  website_url: http://underscorejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/1150/underscore-js.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  detection_source: node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: User
+  description: A real-time marketing automation tool for companies to turn every visitor
+    into a happy customer
+  website_url: https://user.com/en/
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Marketing Automation
+  image_url: https://img.stackshare.io/service/6519/Y6VD3lCR_400x400.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deep-extend@0.6.0/node_modules/deep-extend/package.json
+  detection_source: node_modules/.pnpm/deep-extend@0.6.0/node_modules/deep-extend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: Vercel AI SDK
+  description: An interoperable, streaming-enabled, edge-ready software development
+    kit for AI apps
+  website_url: https://sdk.vercel.ai/docs
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: auto
+  description: Making the Car buying process easier
+  website_url: http://autoportal.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2634/quvIzEn2_normal.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/magicli@0.0.8/node_modules/magicli/package.json
+  detection_source: node_modules/.pnpm/magicli@0.0.8/node_modules/magicli/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  detection_source: node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: crea
+  description: 'Protocol for the creation of hypermedia dapps based on the #blockchain
+    that rewards creatives and curators of digital content. #IPFS #DPOS #CC $CREA
+    @crearynet'
+  website_url: https://creaproject.io
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10991/RLwUWE7F_normal.jpg
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ffi
+  website_url: https://github.com/ffi/ffi
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2558/111990.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  detection_source: node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: jsdoc
+  description: An API documentation generator for JavaScript
+  website_url: http://usejsdoc.org/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Documentation as a Service & Tools
+  image_url: https://img.stackshare.io/service/4047/js-doc.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: nci
+  description: Flexible, open source continuous integration server written in node.js
+  website_url: https://github.com/node-ci/nci
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7802/13189529.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: v8
+  website_url: https://github.com/v8/v8
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4093/113781.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deep-extend@0.6.0/node_modules/deep-extend/package.json
+  detection_source: node_modules/.pnpm/deep-extend@0.6.0/node_modules/deep-extend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: xo
+  description: Zero configuration fixer and linter for javascript code.
+  website_url: https://www.npmjs.com/package/xo
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4535/no-img-open-source.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  detection_source: node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: "@babel/cli"
+  description: Babel command line
+  package_url: https://www.npmjs.com/@babel/cli
+  version: 7.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: "@babel/register"
+  description: Babel require hook
+  package_url: https://www.npmjs.com/@babel/register
+  version: 7.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16014/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: "@types/commander"
+  description: Stub TypeScript definitions entry for commander
+  package_url: https://www.npmjs.com/@types/commander
+  version: 2.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16802/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  detection_source: node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 8.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ai
+  description: The Vercel AI SDK is **a library for building AI-powered streaming
+    text and chat UIs**
+  package_url: https://www.npmjs.com/ai
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ansi
+  description: Advanced ANSI formatting tool for Node.js
+  package_url: https://www.npmjs.com/ansi
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18744/default_a0c218dcb961fccae1cb03e431692daad86f7866.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ansi-regex
+  description: Regular expression for matching ANSI escape codes
+  package_url: https://www.npmjs.com/ansi-regex
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17917/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/strip-ansi@4.0.0/node_modules/strip-ansi/package.json
+  detection_source: node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+  vulnerabilities:
+  - name: Inefficient Regular Expression Complexity in chalk/ansi-regex
+    cve_id: CVE-2021-3807
+    cve_url: https://github.com/advisories/GHSA-93q8-gq69-wqmw
+    detected_date: Sep 21
+    severity: high
+    first_patched: 3.0.1
+- name: arg
+  description: Another simple argument parser
+  package_url: https://www.npmjs.com/arg
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17564/default_99afdc7126f8a31ae778ef58d50c93ae3dd88880.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  detection_source: node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: argparse
+  description: Very powerful CLI arguments parser
+  package_url: https://www.npmjs.com/argparse
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17073/default_23002b02644a8cb313a0f53f43df271731022a9e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/convert-excel-to-json@1.7.0/node_modules/convert-excel-to-json/package.json
+  detection_source: node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: args
+  description: Minimal toolkit for building CLIs
+  package_url: https://www.npmjs.com/args
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18244/default_b102609c7a7fb86f3c2ca3ec026f3011d275978b.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  detection_source: node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: assert
+  description: The assert module from Node.js, for the browser
+  package_url: https://www.npmjs.com/assert
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16188/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/typical@2.6.1/node_modules/typical/package.json
+  detection_source: node_modules/.pnpm/typical@2.6.1/node_modules/typical/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ava
+  description: Testing can be a drag. AVA helps you get it done
+  package_url: https://www.npmjs.com/ava
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  detection_source: node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: bili
+  description: A zero configuration library bundler
+  package_url: https://www.npmjs.com/bili
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16771/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/for-each-property-deep@0.0.3/node_modules/for-each-property-deep/package.json
+  detection_source: node_modules/.pnpm/for-each-property-deep@0.0.3/node_modules/for-each-property-deep/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: bl
+  description: 'Buffer List: collect buffers and access with a standard readable Buffer
+    interface'
+  package_url: https://www.npmjs.com/bl
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: blanket
+  description: Seamless js code coverage
+  package_url: https://www.npmjs.com/blanket
+  version: 1.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16545/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: bson
+  description: A bson parser for node.js and the browser
+  package_url: https://www.npmjs.com/bson
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17380/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  detection_source: node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: buffer-equal
+  description: Return whether two buffers are equal
+  package_url: https://www.npmjs.com/buffer-equal
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18724/default_d60b6874d2b3ef9c114b898855dc8608d7e7a942.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/get-stdin@5.0.1/node_modules/get-stdin/package.json
+  detection_source: node_modules/.pnpm/get-stdin@5.0.1/node_modules/get-stdin/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: camel-case
+  description: Transform into a string with the separator denoted by the next word
+    capitalized
+  package_url: https://www.npmjs.com/camel-case
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17736/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  detection_source: node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: camelcase
+  description: 'Convert a dash/dot/underscore/space separated string to camelCase
+    or PascalCase: `foo-bar` → `fooBar`'
+  package_url: https://www.npmjs.com/camelcase
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16559/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/yargs-parser@7.0.0/node_modules/yargs-parser/package.json
+  detection_source: node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  detection_source: node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: cli
+  description: A tool for rapidly building command line apps
+  package_url: https://www.npmjs.com/cli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17384/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  detection_source: node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: clone
+  description: Deep cloning of objects and arrays
+  package_url: https://www.npmjs.com/clone
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16398/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deep-extend@0.6.0/node_modules/deep-extend/package.json
+  detection_source: node_modules/.pnpm/deep-extend@0.6.0/node_modules/deep-extend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: co
+  description: Generator async control flow goodness
+  package_url: https://www.npmjs.com/co
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: code
+  description: Assertion library
+  package_url: https://www.npmjs.com/code
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16417/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: color
+  description: Color conversion and manipulation with CSS string support
+  package_url: https://www.npmjs.com/color
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16600/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: colors
+  description: Get colors in your node.js console
+  package_url: https://www.npmjs.com/colors
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15908/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  detection_source: node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: command-line-usage
+  description: Generates command-line usage information
+  package_url: https://www.npmjs.com/command-line-usage
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17318/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 2.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  detection_source: node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: compression
+  description: Node.js compression middleware
+  package_url: https://www.npmjs.com/compression
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16187/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  detection_source: node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: conf
+  description: Simple config handling for your app or module
+  package_url: https://www.npmjs.com/conf
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17998/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: config
+  description: Configuration control for production node deployments
+  package_url: https://www.npmjs.com/config
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: copy
+  description: Copy files or directories using globs
+  package_url: https://www.npmjs.com/copy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17538/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  detection_source: node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: covert
+  description: Code coverage command con coverify
+  package_url: https://www.npmjs.com/covert
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18700/default_fc5b023c2170b00beeade822bdceeaf129047406.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  detection_source: node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: crc
+  description: Module for calculating Cyclic Redundancy Check
+  package_url: https://www.npmjs.com/crc
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17810/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  detection_source: node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: crypto
+  description: This package is no longer supported and has been deprecated
+  package_url: https://www.npmjs.com/crypto
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16387/default_000ae7ee50b56e0ecdb07d3662d4b3fa7f4cbdcc.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/package.json
+  detection_source: node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: css
+  description: CSS parser / stringifier
+  package_url: https://www.npmjs.com/css
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17017/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: csv
+  description: CSV parser with simple api
+  package_url: https://www.npmjs.com/csv
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/package.json
+  detection_source: node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: deep-extend
+  description: Recursive object extending
+  package_url: https://www.npmjs.com/deep-extend
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16840/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/table-layout@0.4.5/node_modules/table-layout/package.json
+  detection_source: node_modules/.pnpm/deep-extend@0.6.0/node_modules/deep-extend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: deepmerge
+  description: A library for deep
+  package_url: https://www.npmjs.com/deepmerge
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16179/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: defined
+  description: Return the first argument that is `!== undefined`
+  package_url: https://www.npmjs.com/defined
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18095/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/typical@2.6.1/node_modules/typical/package.json
+  detection_source: node_modules/.pnpm/typical@2.6.1/node_modules/typical/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/p-limit@1.3.0/node_modules/p-limit/package.json
+  detection_source: node_modules/.pnpm/p-limit@1.3.0/node_modules/p-limit/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: delay
+  description: Delay a promise a specified amount of time
+  package_url: https://www.npmjs.com/delay
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16897/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/p-limit@1.3.0/node_modules/p-limit/package.json
+  detection_source: node_modules/.pnpm/p-limit@1.3.0/node_modules/p-limit/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: diff
+  description: A javascript text diff implementation
+  package_url: https://www.npmjs.com/diff
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16509/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: dot
+  description: Concise and fast javascript templating compatible with nodejs and other
+    javascript environments
+  package_url: https://www.npmjs.com/dot
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17465/default_10a98ebc0146ab94b0fde6f7013c1279c82e4135.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  detection_source: node_modules/.pnpm/camelcase@4.1.0/node_modules/camelcase/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: dtslint
+  description: Runs tests on TypeScript definition files
+  package_url: https://www.npmjs.com/dtslint
+  version: 0.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17130/default_747c790463912ea0e3a85597146d9c13d6a53db9.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: eslint-config-airbnb
+  description: Airbnb's ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb
+  version: 17.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.14.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: esm
+  description: Tomorrow's ECMAScript modules today!
+  package_url: https://www.npmjs.com/esm
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16371/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: expect
+  description: This package exports the `expect` function used in [Jest]
+  package_url: https://www.npmjs.com/expect
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16110/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  detection_source: node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: extend
+  description: Port of jQuery.extend for node.js and the browser
+  package_url: https://www.npmjs.com/extend
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16161/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/convert-excel-to-json@1.7.0/node_modules/convert-excel-to-json/package.json
+  detection_source: node_modules/.pnpm/convert-excel-to-json@1.7.0/node_modules/convert-excel-to-json/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ffi
+  description: A foreign function interface
+  package_url: https://www.npmjs.com/ffi
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17812/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  detection_source: node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: find-up
+  description: Find a file or directory by walking up parent directories
+  package_url: https://www.npmjs.com/find-up
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17030/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/magicli@0.0.8/node_modules/magicli/package.json
+  detection_source: node_modules/.pnpm/find-up@2.1.0/node_modules/find-up/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: flat
+  description: Take a nested Javascript object and flatten it
+  package_url: https://www.npmjs.com/flat
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17025/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/magicli@0.0.8/node_modules/magicli/tests/test-modules/object-flat/package.json
+  detection_source: node_modules/.pnpm/magicli@0.0.8/node_modules/magicli/tests/test-modules/object-flat/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: flatten
+  description: Flatten arbitrarily nested arrays into a non-nested list of non-array
+    items
+  package_url: https://www.npmjs.com/flatten
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18737/default_7dcbb101f983d7e8258c98920653a3bec91f6992.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/reduce-flatten@1.0.1/node_modules/reduce-flatten/package.json
+  detection_source: node_modules/.pnpm/reduce-flatten@1.0.1/node_modules/reduce-flatten/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: fs
+  description: This package name is not currently in use, but was formerly occupied
+    by another package
+  package_url: https://www.npmjs.com/fs
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16098/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  detection_source: node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: function-bind
+  description: Implementation of Function.prototype.bind
+  package_url: https://www.npmjs.com/function-bind
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16542/default_2d1a470f86144a45b7e94185b9a5aecb5ebb69f4.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/has@1.0.3/node_modules/has/package.json
+  detection_source: node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: get-stdin
+  description: Get stdin as a string or buffer
+  package_url: https://www.npmjs.com/get-stdin
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17101/default_50357c490b205882dcfb608fd3c74b446186c21e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 8.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: glob-promise
+  description: Promise version of glob
+  package_url: https://www.npmjs.com/glob-promise
+  version: 6.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18020/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: gm
+  description: GraphicsMagick and ImageMagick for node.js
+  package_url: https://www.npmjs.com/gm
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16804/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/package.json
+  detection_source: node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/package.json
+  detection_source: node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: has
+  description: Object.prototype.hasOwnProperty.call shortcut
+  package_url: https://www.npmjs.com/has
+  version: 1.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18039/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/node.extend@2.0.2/node_modules/node.extend/package.json
+  detection_source: node_modules/.pnpm/has@1.0.3/node_modules/has/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: hat
+  description: Generate random IDs and avoid collisions
+  package_url: https://www.npmjs.com/hat
+  license: MIT,X11
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18457/default_1ee30bb84bfc1558e9a2c7e21dfb728addee0444.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/locate-path@2.0.0/node_modules/locate-path/package.json
+  detection_source: node_modules/.pnpm/locate-path@2.0.0/node_modules/locate-path/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: hbs
+  description: Express.js template engine plugin for Handlebars
+  package_url: https://www.npmjs.com/hbs
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17878/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: http
+  package_url: https://www.npmjs.com/http
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: https
+  description: Https mediation
+  package_url: https://www.npmjs.com/https
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: i
+  description: Custom inflections for nodejs
+  package_url: https://www.npmjs.com/i
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: iconv
+  description: Text recoding in JavaScript for fun and profit!
+  package_url: https://www.npmjs.com/iconv
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17911/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/codepage@1.13.1/node_modules/codepage/package.json
+  detection_source: node_modules/.pnpm/codepage@1.13.1/node_modules/codepage/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ignore
+  description: Ignore is a manager and filter for .gitignore rules
+  package_url: https://www.npmjs.com/ignore
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17744/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/array-back@3.1.0/node_modules/array-back/package.json
+  detection_source: node_modules/.pnpm/array-back@3.1.0/node_modules/array-back/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ini
+  description: An ini encoder/decoder for node
+  package_url: https://www.npmjs.com/ini
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16594/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ip
+  description: "[![]"
+  package_url: https://www.npmjs.com/ip
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: is
+  description: The definitive JavaScript type testing library
+  package_url: https://www.npmjs.com/is
+  version: 3.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/node.extend@2.0.2/node_modules/node.extend/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: is-ci
+  description: Detect if the current environment is a CI server
+  package_url: https://www.npmjs.com/is-ci
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18090/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/lodash.padend@4.6.1/node_modules/lodash.padend/package.json
+  detection_source: node_modules/.pnpm/lodash.padend@4.6.1/node_modules/lodash.padend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: is-plain-obj
+  description: Check if a value is a plain object
+  package_url: https://www.npmjs.com/is-plain-obj
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18523/default_4ab681e38c50826e4ec993cd0190baa65b5e5d17.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  detection_source: node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: is-plain-object
+  description: Returns true if an object was created by the `Object` constructor
+  package_url: https://www.npmjs.com/is-plain-object
+  version: 2.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17345/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  detection_source: node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: jscs
+  description: JavaScript Code Style
+  package_url: https://www.npmjs.com/jscs
+  version: 3.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16176/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  detection_source: node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: jsdoc-to-markdown
+  description: Generates markdown API documentation from jsdoc annotated source code
+  package_url: https://www.npmjs.com/jsdoc-to-markdown
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16276/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: lab
+  description: Test utility
+  package_url: https://www.npmjs.com/lab
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16367/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/node.extend@2.0.2/node_modules/node.extend/package.json
+  detection_source: node_modules/.pnpm/node.extend@2.0.2/node_modules/node.extend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: level
+  description: Fast &amp; simple storage - a Node.js-style LevelDB wrapper
+  package_url: https://www.npmjs.com/level
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16948/default_3740a7ec4487cb5332a821b353451c008aa3d4ae.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: log
+  description: Universal pluggable logging utility
+  package_url: https://www.npmjs.com/log
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17960/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/slugify@1.6.6/node_modules/slugify/package.json
+  detection_source: node_modules/.pnpm/slugify@1.6.6/node_modules/slugify/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: merge
+  description: Merge multiple objects into one, optionally creating a new cloned object
+  package_url: https://www.npmjs.com/merge
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16534/default_2d1a470f86144a45b7e94185b9a5aecb5ebb69f4.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: methods
+  description: HTTP methods that node supports
+  package_url: https://www.npmjs.com/methods
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17145/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/inspect-property@0.0.6/node_modules/inspect-property/package.json
+  detection_source: node_modules/.pnpm/inspect-property@0.0.6/node_modules/inspect-property/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ms
+  description: Tiny millisecond conversion utility
+  package_url: https://www.npmjs.com/ms
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/commander@2.14.1/node_modules/commander/package.json
+  detection_source: node_modules/.pnpm/commander@2.14.1/node_modules/commander/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: node
+  description: Node
+  package_url: https://www.npmjs.com/node
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: node.extend
+  description: A port of jQuery.extend that actually works on node.js
+  package_url: https://www.npmjs.com/node.extend
+  version: 2.0.2
+  license: MIT,GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17388/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/convert-excel-to-json@1.7.0/node_modules/convert-excel-to-json/package.json
+  detection_source: node_modules/.pnpm/convert-excel-to-json@1.7.0/node_modules/convert-excel-to-json/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: np
+  description: A better `npm publish`
+  package_url: https://www.npmjs.com/np
+  version: 5.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16247/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/array-back@3.1.0/node_modules/array-back/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: npm
+  description: A package manager for JavaScript
+  package_url: https://www.npmjs.com/npm
+  license: Artistic-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/array-back@3.1.0/node_modules/array-back/package.json
+  detection_source: node_modules/.pnpm/array-back@3.1.0/node_modules/array-back/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: nsp
+  description: The Node Security
+  package_url: https://www.npmjs.com/nsp
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16235/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: nyc
+  description: The Istanbul command line interface
+  package_url: https://www.npmjs.com/nyc
+  version: 15.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/slugify@1.6.6/node_modules/slugify/package.json
+  detection_source: node_modules/.pnpm/array-back@3.1.0/node_modules/array-back/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ol
+  description: OpenLayers mapping library
+  package_url: https://www.npmjs.com/ol
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18695/default_ba22650903e999378ab35f8093d2d808f0a46039.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  detection_source: node_modules/.pnpm/ansi-escape-sequences@4.1.0/node_modules/ansi-escape-sequences/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: open
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/open
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: os
+  description: NodeJS Core Module Extended
+  package_url: https://www.npmjs.com/os
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: p-limit
+  description: Run multiple promise-returning &amp; async functions with limited concurrency
+  package_url: https://www.npmjs.com/p-limit
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18388/default_404701144cd8e1becf3aec789202840caee4d78e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/p-locate@2.0.0/node_modules/p-locate/package.json
+  detection_source: node_modules/.pnpm/p-limit@1.3.0/node_modules/p-limit/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: pad
+  description: Left and right string padding
+  package_url: https://www.npmjs.com/pad
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18387/default_443ead48d03f7b1fc57a05db4ff2c559c3e54f5e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  detection_source: node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: path
+  description: Node.JS path module
+  package_url: https://www.npmjs.com/path
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/find-up@2.1.0/node_modules/find-up/package.json
+  detection_source: node_modules/.pnpm/find-up@2.1.0/node_modules/find-up/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: path-exists
+  description: Check if a path exists
+  package_url: https://www.npmjs.com/path-exists
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16765/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/locate-path@2.0.0/node_modules/locate-path/package.json
+  detection_source: node_modules/.pnpm/locate-path@2.0.0/node_modules/locate-path/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: process
+  description: Process information for node.js and browsers
+  package_url: https://www.npmjs.com/process
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  detection_source: node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: promise
+  description: Bare bones Promises/A+ implementation
+  package_url: https://www.npmjs.com/promise
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: publish
+  description: Npm auto publishing of your modules
+  package_url: https://www.npmjs.com/publish
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18190/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  detection_source: node_modules/.pnpm/hex-to-rgba@2.0.1/node_modules/hex-to-rgba/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: rc
+  description: Hardwired configuration loader
+  package_url: https://www.npmjs.com/rc
+  license: BSD-2-Clause,MIT,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16813/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: read
+  description: Read
+  package_url: https://www.npmjs.com/read
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17342/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ref
+  description: Turn Buffer instances into "pointers"
+  package_url: https://www.npmjs.com/ref
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18418/default_4d27e57a415c059481cbe1fd0734523c261d311a.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: resolve
+  description: Resolve like require.resolve
+  package_url: https://www.npmjs.com/resolve
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  detection_source: node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: rollup-plugin-commonjs
+  description: Convert CommonJS modules to ES2015
+  package_url: https://www.npmjs.com/rollup-plugin-commonjs
+  version: 8.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15873/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  detection_source: node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: rollup-plugin-node-resolve
+  description: Bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/rollup-plugin-node-resolve
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15859/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  detection_source: node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: safe-publish-latest
+  description: Ensure that when you `npm publish`
+  package_url: https://www.npmjs.com/safe-publish-latest
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17965/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/is@3.3.0/node_modules/is/package.json
+  detection_source: node_modules/.pnpm/is@3.3.0/node_modules/is/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: should
+  description: Test framework agnostic BDD-style assertions
+  package_url: https://www.npmjs.com/should
+  version: 11.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15871/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/commander@2.14.1/node_modules/commander/package.json
+  detection_source: node_modules/.pnpm/commander@2.14.1/node_modules/commander/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: slug
+  description: Slugifies even utf-8 chars!
+  package_url: https://www.npmjs.com/slug
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17225/default_c6388e9ebad8a4ea0209a3440636fd19354e82d2.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/slugify@1.6.6/node_modules/slugify/package.json
+  detection_source: node_modules/.pnpm/slugify@1.6.6/node_modules/slugify/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: slugify
+  description: Slugifies a String
+  package_url: https://www.npmjs.com/slugify
+  version: 1.6.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17389/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/package.json
+  detection_source: node_modules/.pnpm/slugify@1.6.6/node_modules/slugify/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: sprintf-js
+  description: JavaScript sprintf implementation
+  package_url: https://www.npmjs.com/sprintf-js
+  version: 1.0.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16880/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  detection_source: node_modules/.pnpm/argparse@1.0.10/node_modules/argparse/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: st
+  description: A module for serving static files. Does etags, caching, etc
+  package_url: https://www.npmjs.com/st
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: standard
+  description: JavaScript Standard Style
+  package_url: https://www.npmjs.com/standard
+  version: 10.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15878/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/commander@2.14.1/node_modules/commander/package.json
+  detection_source: node_modules/.pnpm/array-back@3.1.0/node_modules/array-back/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: standard-version
+  description: Replacement for `npm version` with automatic CHANGELOG generation
+  package_url: https://www.npmjs.com/standard-version
+  version: 4.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16053/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/yargs-parser@7.0.0/node_modules/yargs-parser/package.json
+  detection_source: node_modules/.pnpm/yargs-parser@7.0.0/node_modules/yargs-parser/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+  vulnerabilities:
+  - name: Command Injection in standard-version
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-7xcx-6wjh-7xp2
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 8.0.1
+- name: step
+  description: A simple control-flow library for node.JS that makes parallel execution
+  package_url: https://www.npmjs.com/step
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18191/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/pipe-functions@1.3.0/node_modules/pipe-functions/package.json
+  detection_source: node_modules/.pnpm/pipe-functions@1.3.0/node_modules/pipe-functions/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: stringify
+  description: Browserify middleware to be able to require
+  package_url: https://www.npmjs.com/stringify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18492/default_9c45ef918d27804fb2a0b2f31e341286bc3bc5d7.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/inspect-function@0.3.4/node_modules/inspect-function/package.json
+  detection_source: node_modules/.pnpm/inspect-function@0.3.4/node_modules/inspect-function/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: strip-ansi
+  description: Strip ANSI escape codes from a string
+  package_url: https://www.npmjs.com/strip-ansi
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16331/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: table
+  description: Formats data into a string table
+  package_url: https://www.npmjs.com/table
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17937/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/codepage@1.13.1/node_modules/codepage/package.json
+  detection_source: node_modules/.pnpm/codepage@1.13.1/node_modules/codepage/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: tap
+  description: A Test-Anything-Protocol library for JavaScript
+  package_url: https://www.npmjs.com/tap
+  version: 12.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  detection_source: node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: tape
+  description: Tap-producing test harness for node and browsers
+  package_url: https://www.npmjs.com/tape
+  version: 4.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  detection_source: node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  version: 6.1.13
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: temp
+  description: Temporary files and directories
+  package_url: https://www.npmjs.com/temp
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16400/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/find-up@2.1.0/node_modules/find-up/package.json
+  detection_source: node_modules/.pnpm/find-up@2.1.0/node_modules/find-up/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: tempfile
+  description: Get a random temporary file path
+  package_url: https://www.npmjs.com/tempfile
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18336/default_ee96f9207d5179911f1b284ce301920711f47528.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/find-up@2.1.0/node_modules/find-up/package.json
+  detection_source: node_modules/.pnpm/find-up@2.1.0/node_modules/find-up/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: test
+  description: ''
+  package_url: https://www.npmjs.com/test
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: tmp
+  description: Temporary file and directory creator
+  package_url: https://www.npmjs.com/tmp
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  detection_source: node_modules/.pnpm/@adobe+spectrum-tokens@12.5.0-beta.0/node_modules/@adobe/spectrum-tokens/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 8.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/commander@2.20.3/node_modules/commander/package.json
+  detection_source: node_modules/.pnpm/commander@2.20.3/node_modules/commander/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: tsc
+  description: Latest code from microsoft/typescript packaged and released
+  package_url: https://www.npmjs.com/tsc
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18739/default_45da7a7c78da21b4de04db19cc949c3490185f5e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  detection_source: node_modules/.pnpm/cfb@1.0.8/node_modules/cfb/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: twit
+  description: Twitter API client for node
+  package_url: https://www.npmjs.com/twit
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18372/default_6da9f8de2035c7ad69ecf412df9fe80b73f9797a.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/node.extend@2.0.2/node_modules/node.extend/package.json
+  detection_source: node_modules/.pnpm/node.extend@2.0.2/node_modules/node.extend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: twitter
+  description: Twitter API client library for node.js
+  package_url: https://www.npmjs.com/twitter
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18617/default_556cbbde03c4b61e43fa7de374efed6927510d08.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/node.extend@2.0.2/node_modules/node.extend/package.json
+  detection_source: node_modules/.pnpm/node.extend@2.0.2/node_modules/node.extend/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: typings
+  description: The TypeScript Definition Manager
+  package_url: https://www.npmjs.com/typings
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16198/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/commander@2.14.1/node_modules/commander/package.json
+  detection_source: node_modules/.pnpm/commander@2.14.1/node_modules/commander/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: uglify
+  description: A simple tool to uglify javascript &amp; css files
+  package_url: https://www.npmjs.com/uglify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18097/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 3.3.12
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/deepmerge@2.2.1/node_modules/deepmerge/package.json
+  detection_source: node_modules/.pnpm/adler-32@1.2.0/node_modules/adler-32/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: util
+  description: Node.js's util module for all engines
+  package_url: https://www.npmjs.com/util
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/codepage@1.13.1/node_modules/codepage/package.json
+  detection_source: node_modules/.pnpm/codepage@1.13.1/node_modules/codepage/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: verb
+  description: Documentation generator for GitHub projects
+  package_url: https://www.npmjs.com/verb
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17845/default_7e49ed9d84206a0a241a2a0e7e3f63b8f9585401.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/slugify@1.6.6/node_modules/slugify/package.json
+  detection_source: node_modules/.pnpm/slugify@1.6.6/node_modules/slugify/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: vision
+  description: Templates rendering plugin support for hapi.js
+  package_url: https://www.npmjs.com/vision
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18118/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/commander@2.14.1/node_modules/commander/package.json
+  detection_source: node_modules/.pnpm/commander@2.14.1/node_modules/commander/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: walk
+  description: A node port of python's os.walk
+  package_url: https://www.npmjs.com/walk
+  license: MIT,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16860/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/find-up@2.1.0/node_modules/find-up/package.json
+  detection_source: node_modules/.pnpm/find-up@2.1.0/node_modules/find-up/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: watch
+  description: Utilities for watching file trees
+  package_url: https://www.npmjs.com/watch
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16280/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/package.json
+  detection_source: node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: when
+  description: A lightweight Promises/A+ and when
+  package_url: https://www.npmjs.com/when
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16550/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/object-to-arguments@0.0.8/node_modules/object-to-arguments/package.json
+  detection_source: node_modules/.pnpm/object-to-arguments@0.0.8/node_modules/object-to-arguments/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: wordwrap
+  description: Wrap those words
+  package_url: https://www.npmjs.com/wordwrap
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18046/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/table-layout@0.4.5/node_modules/table-layout/package.json
+  detection_source: node_modules/.pnpm/table-layout@0.4.5/node_modules/table-layout/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: write
+  description: Write data to a file, replacing the file if it already exists and creating
+    any intermediate directories if they don't already exist
+  package_url: https://www.npmjs.com/write
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18762/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/package.json
+  detection_source: node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: xlsx
+  description: SheetJS Spreadsheet data parser and writer
+  package_url: https://www.npmjs.com/xlsx
+  version: 0.12.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16781/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/convert-excel-to-json@1.7.0/node_modules/convert-excel-to-json/package.json
+  detection_source: node_modules/.pnpm/convert-excel-to-json@1.7.0/node_modules/convert-excel-to-json/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in sheetJS
+    cve_id: CVE-2023-30533
+    cve_url: https://github.com/advisories/GHSA-4r6h-8v6p-xvw6
+    detected_date: Apr 25
+    severity: high
+    first_patched: 0.19.3
+  - name: Denial of Service in SheetsJS Pro
+    cve_id: CVE-2021-32013
+    cve_url: https://github.com/advisories/GHSA-8vcr-vxm8-293m
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+  - name: Denial of Service in SheetJS Pro
+    cve_id: CVE-2021-32012
+    cve_url: https://github.com/advisories/GHSA-3x9f-74h4-2fqr
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+  - name: Denial of Service in SheetJS Pro
+    cve_id: CVE-2021-32014
+    cve_url: https://github.com/advisories/GHSA-g973-978j-2c3p
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+- name: xo
+  description: JavaScript linter with great defaults
+  package_url: https://www.npmjs.com/xo
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16016/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  detection_source: node_modules/.pnpm/ansi-regex@3.0.1/node_modules/ansi-regex/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: yargs-parser
+  description: The mighty option parser used by yargs
+  package_url: https://www.npmjs.com/yargs-parser
+  version: 7.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17207/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  detection_source: node_modules/.pnpm/cliss@0.0.2/node_modules/cliss/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+  vulnerabilities:
+  - name: yargs-parser Vulnerable to Prototype Pollution
+    cve_id: CVE-2020-7608
+    cve_url: https://github.com/advisories/GHSA-p9pc-299p-vxgp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 13.1.2
+- name: yo
+  description: CLI tool for running Yeoman generators
+  package_url: https://www.npmjs.com/yo
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17899/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/command-line-usage@4.1.0/node_modules/command-line-usage/package.json
+  detection_source: node_modules/.pnpm/command-line-usage@4.1.0/node_modules/command-line-usage/package.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: he
+  description: A robust HTML entity encoder/decoder written in JavaScript
+  package_url: http://bower.io/he
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/bower.json
+  detection_source: node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/bower.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: js-xls
+  description: XLS
+  package_url: http://bower.io/js-xls
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/bower.json
+  detection_source: node_modules/.pnpm/xlsx@0.12.13/node_modules/xlsx/bower.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: page
+  description: Tiny client-side router
+  package_url: http://bower.io/page
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/bower.json
+  detection_source: node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/bower.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: sprintf
+  description: JavaScript sprintf implementation
+  package_url: http://bower.io/sprintf
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/bower.json
+  detection_source: node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/bower.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
+- name: string
+  description: String contains methods that aren't included in the vanilla JavaScript
+    string such as escaping HTML
+  package_url: http://bower.io/string
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/GarthDB/excel-to-tokens-converter/blob/main/node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/bower.json
+  detection_source: node_modules/.pnpm/sprintf-js@1.0.3/node_modules/sprintf-js/bower.json
+  last_updated_by: garthdb
+  last_updated_on: 2023-08-09 21:36:25.000000000 Z
